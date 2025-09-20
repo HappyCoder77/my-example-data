@@ -1,0 +1,3 @@
+User 1, Alice, New York
+User 2, Bob, London
+User 3, Charlie, Tokyo
